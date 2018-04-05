@@ -1,0 +1,3 @@
+C:/Users/nasty/Documents/CPP/BigProject/cmake-build-debug/CMakeFiles/BigProject.dir
+C:/Users/nasty/Documents/CPP/BigProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nasty/Documents/CPP/BigProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
